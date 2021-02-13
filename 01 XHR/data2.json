@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "full_name": "Bernarr James",
+        "email": "bjames0@lulu.com",
+        "gender": "Genderfluid"
+    }, 
+    {
+        "id": 2,
+        "full_name": "Shamus Blaszczynski",
+        "email": "sblaszczynski1@blinklist.com",
+        "gender": "Bigender"
+    }, 
+    {
+        "id": 3,
+        "full_name": "Gustave Spedroni",
+        "email": "gspedroni2@merriam-webster.com",
+        "gender": "Polygender"
+    }, 
+    {
+        "id": 4,
+        "full_name": "Armin Size",
+        "email": "asize3@biglobe.ne.jp",
+        "gender": "Genderfluid"
+    }, 
+    {
+        "id": 5,
+        "full_name": "Eliot Cruden",
+        "email": "ecruden4@indiegogo.com",
+        "gender": "Agender"
+    }
+]
